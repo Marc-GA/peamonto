@@ -9,10 +9,14 @@ The PEAM ontology (PEAMONTO) aims at providing a representation structure for de
 
 PEAMONTO is accessible on: <https://marc-ga.github.io/peamonto/peamonto.owl>
 
+Version 1.0 of the PEAMONTO module corresponds to commit id 7669aa7 and is accessible [here](https://github.com/Marc-GA/peamonto/commit/7669aa7040913fa18271b4689b1cecd5a95edcf9).
+
 # GUCO
 The GUCO module serves as a meta module for use cases. GUCO provides a generic reference for describing use cases of any type. These can be applied to domain-specific modules.
 
 GUCO is accessible on: <https://marc-ga.github.io/peamonto/guco.owl>
+
+Version 1.0 of the GUCO module corresponds to commit id d13c153 and is accessible [here](https://github.com/Marc-GA/peamonto/commit/d13c15318825deb3a7251e37d5518c73f5ae6032).
 
 # Application
 PEAMONTO extends GUCO to the mobility and transportation domain and is currently applied in a tool for designing and comparing different use cases and applications in that domain.
