@@ -2,6 +2,8 @@
 
 The peamonto project aims at exploring and classifying concepts for the conception, implementation and testing of autonomous mobility and transportation solutions. The project follows a use case oriented approach which involves the development of a generic use case module (GUCO). GUCO can be linked to domain modules such as PEAMONTO, further introduced in this research. The ontologies are tested alongside a use case tool currently under development, and subject to further research.
 
+This research work has been submitted to the 2024 FOIS conference and is awaiting feedback for acceptance.
+
 # PEAMONTO
 The PEAM ontology (PEAMONTO) aims at providing a representation structure for describing Autonomous Mobility (AM) use cases to make this knowledge applicable by actors involved in the design, conception, development, test and validation of innovative mobility and transportation solutions. PEAMONTO serves as a common ground which involves concepts from the Autonomous Mobility (AM) domain.
 
@@ -17,8 +19,8 @@ PEAMONTO extends GUCO to the mobility and transportation domain and is currently
 
 # License
 
-This work follows the MIT License.
+This work is assigned the MIT License.
 
 # Acknowledgement
 
-This work is submitted to FOIS conference 2024. This paper is further based on the research conducted in the BeIntelli project, funded by the German Federal Ministry for Digital and Transport (BMDV) under the funding reference number 01MM20004.
+This work is based on the research conducted in the BeIntelli project, funded by the German Federal Ministry for Digital and Transport (BMDV) under the funding reference number 01MM20004.
