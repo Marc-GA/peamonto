@@ -23,7 +23,7 @@ PEAMONTO extends GUCO to the mobility and transportation domain and is currently
 
 # License
 
-This work is assigned the MIT License.
+This project is licensed under the terms of the MIT license.
 
 # Acknowledgement
 
