@@ -23,6 +23,10 @@ The Use Case Baseline module serves as a module for representing use case agnost
 
 UCB is accessible on: <https://marc-ga.github.io/peamonto/ucb.owl>
 
+# Further Ontologies / Taxonomies
+
+Further taxonomies may address distinct domain fields.
+
 # Application
 PEAMONTO extends GUCO to the mobility and transportation domain and is currently applied in a tool for designing and comparing different use cases and applications in that domain.
 
