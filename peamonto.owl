@@ -3895,15 +3895,6 @@
     
 
 
-    <!-- http://webprotege.stanford.edu/Rn9iv9PaC1RQjL8QR5sW9G -->
-
-    <owl:Class rdf:about="http://webprotege.stanford.edu/Rn9iv9PaC1RQjL8QR5sW9G">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">ISO 37120</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://webprotege.stanford.edu/RnyAqFVZv1pYx833OK7G3A -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RnyAqFVZv1pYx833OK7G3A">
@@ -4096,15 +4087,6 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/Rvtvt6NvKDkB51liBK9hX4">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rjsr68elzHiZIdqtVwdfya"/>
         <rdfs:label xml:lang="en">Federated Learning</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://webprotege.stanford.edu/RwL7dtjAkso7CsFswcDlMj -->
-
-    <owl:Class rdf:about="http://webprotege.stanford.edu/RwL7dtjAkso7CsFswcDlMj">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">TOMP-API</rdfs:label>
     </owl:Class>
     
 
