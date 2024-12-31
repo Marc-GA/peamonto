@@ -27,6 +27,8 @@ UCB is accessible on: <https://marc-ga.github.io/peamonto/ucb.owl>
 
 Further taxonomies may address distinct domain fields.
 
+For instance, we provide the initial GOKI module, a research project, focusing to provide a software suite consisting of frameworks and tools as well as an open innovation laboratory for the development and realisation of AI applications for the common good. GOKI ontology development is work in progress. The current state is accessible on: <https://marc-ga.github.io/peamonto/goki.owl>
+
 # Application
 PEAMONTO extends GUCO to the mobility and transportation domain and is currently applied in a tool for designing and comparing different use cases and applications in that domain.
 
