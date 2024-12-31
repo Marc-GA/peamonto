@@ -625,6 +625,15 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/R7kPv94nLyi4uGVUYQiIwfa -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7kPv94nLyi4uGVUYQiIwfa">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5"/>
+        <rdfs:label xml:lang="en">3GPP Releases (LTE-V2X, 5G-V2X)</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/R7kTRZZkVTvCBs694BPUZdF -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R7kTRZZkVTvCBs694BPUZdF">
@@ -657,6 +666,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/R7pDkhWunw8bIfdIy8Jr8wS">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8hhs9c6fOMnwxB6zlasdau"/>
         <rdfs:label xml:lang="en">Probabilistic Models</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7qNkCR6Iz1KQCveSiHTWAn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7qNkCR6Iz1KQCveSiHTWAn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5"/>
+        <rdfs:label xml:lang="en">ISO 15118 vehicle-to-grid communication</rdfs:label>
     </owl:Class>
     
 
@@ -845,6 +863,16 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/R88veG2psdEkGuYZYsdD9xq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R88veG2psdEkGuYZYsdD9xq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8HlCcMKoU0kweba9GIwhmk"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alerts about specific events like accidents, road hazards, or weather conditions. Use Case: Enables proactive safety measures and dynamic route adjustments.</rdfs:comment>
+        <rdfs:label xml:lang="en">Decentralized Environmental Notification Message (DENM) ETSI EN 302 637-3</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/R89yvvyYTfA28rxuF9PTpiw -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R89yvvyYTfA28rxuF9PTpiw">
@@ -913,6 +941,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/R8HGBUzPRSR4Ise1GC4mokk">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7xzcj3vxtArQsi3C7lymoS"/>
         <rdfs:label xml:lang="en">Past Orders</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8HlCcMKoU0kweba9GIwhmk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8HlCcMKoU0kweba9GIwhmk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCXisei3FCvDjub3Sc3jrkm"/>
+        <rdfs:label xml:lang="en">V2X Communication Messages</rdfs:label>
     </owl:Class>
     
 
@@ -1001,6 +1038,15 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/R8QLsYuYa5HlP7nGGzkFce9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8QLsYuYa5HlP7nGGzkFce9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDjOb4AX5jIJ4DAgJ9NLxHe"/>
+        <rdfs:label xml:lang="en">ISO 11898 (CAN) Controller Area Network</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/R8QdTUj9gXTPO6y2LtmQyQI -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R8QdTUj9gXTPO6y2LtmQyQI">
@@ -1024,6 +1070,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/R8SATS0Fb2S3RYX5QIa573m">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R946GKFE05iawr63clodrPX"/>
         <rdfs:label xml:lang="en">Personalized Ride Preferences</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8SGRihKB4X9nq1oXvhM25A -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8SGRihKB4X9nq1oXvhM25A">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5"/>
+        <rdfs:label xml:lang="en">ETSI ITS-G5 European standard for vehicle-to-everything (V2X) based on IEEE 802.11p</rdfs:label>
     </owl:Class>
     
 
@@ -1100,6 +1155,15 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/R8evk63QZzFuet3DU2g0npH -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8evk63QZzFuet3DU2g0npH">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9"/>
+        <rdfs:label xml:lang="en">ISO 21434 Road Vehicles – Cybersecurity Engineering</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/R8fyiyd77RDSfVCc4Lp15r1 -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R8fyiyd77RDSfVCc4Lp15r1">
@@ -1160,6 +1224,15 @@
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCULlwxEbw0MiFOUNV86Jdk"/>
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCqjgU7rDZGmZ6AZC3dwQxM"/>
         <rdfs:label xml:lang="en">Localization</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
+        <rdfs:label xml:lang="en">Vehicle Platform and Communication Standards</rdfs:label>
     </owl:Class>
     
 
@@ -1318,8 +1391,8 @@
     <!-- http://webprotege.stanford.edu/R8xoR9hl7irR5WyU3RwriRg -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R8xoR9hl7irR5WyU3RwriRg">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">UNECE WP.29 (R157)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9"/>
+        <rdfs:label xml:lang="en">UNECE WP.29 (R157) Automated Lane Keeping Systems (ALKS)</rdfs:label>
     </owl:Class>
     
 
@@ -1435,11 +1508,31 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/R9AdSiP0GZ9hxiIzRQKaV3l -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9AdSiP0GZ9hxiIzRQKaV3l">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8HlCcMKoU0kweba9GIwhmk"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shares traffic signal information, including current phase and time remaining for red, yellow, or green. Use Case: Facilitates optimized driving and eco-friendly route planning at intersections.</rdfs:comment>
+        <rdfs:label xml:lang="en">Signal Phase and Timing (SPaT) SAE J2735</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/R9BLAwzNLXNeymZOOrGnn05 -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R9BLAwzNLXNeymZOOrGnn05">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RcuR4PNxHPmrBXQQQ9RK6L"/>
         <rdfs:label xml:lang="en">LiDAR Perception Models</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9CS1qSzXD2CvGED85f1202 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9CS1qSzXD2CvGED85f1202">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8HlCcMKoU0kweba9GIwhmk"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Provides detailed intersection geometry and lane-level information. Use Case: Assists vehicles in understanding road layouts and planning maneuvers.</rdfs:comment>
+        <rdfs:label xml:lang="en">Map Data (MAP) SAE J2735</rdfs:label>
     </owl:Class>
     
 
@@ -1820,8 +1913,8 @@
     <!-- http://webprotege.stanford.edu/RB6ZYUoNKLbRH6d0wPAQ7pw -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RB6ZYUoNKLbRH6d0wPAQ7pw">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">SAE J3164</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9"/>
+        <rdfs:label xml:lang="en">SAE J3164 Taxonomy and definitions for shared mobility systems</rdfs:label>
     </owl:Class>
     
 
@@ -2080,6 +2173,16 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/RBiv1TUDsruJdQKy3vYNFps -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBiv1TUDsruJdQKy3vYNFps">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RRI2TLqdZq7vle5kfxM5YG"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Commonly used in cloud-based services for transmitting real-time traffic and navigation data.</rdfs:comment>
+        <rdfs:label xml:lang="en">JSON/REST APIs</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/RBjIDeQqWLY3kXGqutAdkIe -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RBjIDeQqWLY3kXGqutAdkIe">
@@ -2297,7 +2400,7 @@
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RC5aZqRbyX95wllBpg9t0VY">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCJKly7hOfzqaXAbY2hVym0"/>
-        <rdfs:label xml:lang="en">Waymo vs. Local Regulators</rdfs:label>
+        <rdfs:label xml:lang="en">Proven Solutions vs. Local Regulators</rdfs:label>
     </owl:Class>
     
 
@@ -2515,6 +2618,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/RCULlwxEbw0MiFOUNV86Jdk">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R861VfmRRhAlS58YSygdcow"/>
         <rdfs:label xml:lang="en">Middleware</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCXisei3FCvDjub3Sc3jrkm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCXisei3FCvDjub3Sc3jrkm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RQ6PCnqmJTsoSNSBhKg8NH"/>
+        <rdfs:label xml:lang="en">Messages</rdfs:label>
     </owl:Class>
     
 
@@ -2894,15 +3006,6 @@
     
 
 
-    <!-- http://webprotege.stanford.edu/RDEdra2G8Tl6m1maUOAb6zz -->
-
-    <owl:Class rdf:about="http://webprotege.stanford.edu/RDEdra2G8Tl6m1maUOAb6zz">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">ISO 14083</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://webprotege.stanford.edu/RDG7eDOKsNl7CHEFpPbd8Yi -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RDG7eDOKsNl7CHEFpPbd8Yi">
@@ -3057,8 +3160,8 @@
     <!-- http://webprotege.stanford.edu/RDWXP11krcmg1f6ZqKMvqY -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RDWXP11krcmg1f6ZqKMvqY">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">ISO 21448 (SOTIF)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9"/>
+        <rdfs:label xml:lang="en">ISO 21448 (SOTIF) Safety of the Intended Functionality</rdfs:label>
     </owl:Class>
     
 
@@ -3163,6 +3266,24 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/RDjOb4AX5jIJ4DAgJ9NLxHe -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDjOb4AX5jIJ4DAgJ9NLxHe">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
+        <rdfs:label xml:lang="en">Vehicle Standards</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDlGItcdnwxBJZW5ZxHVviS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDlGItcdnwxBJZW5ZxHVviS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDjOb4AX5jIJ4DAgJ9NLxHe"/>
+        <rdfs:label xml:lang="en">ISO 14229 (UDS) Unified Diagnostic Services</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/RDlqcVCkyLL3gG7LTLVwsUW -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RDlqcVCkyLL3gG7LTLVwsUW">
@@ -3199,15 +3320,6 @@
     
 
 
-    <!-- http://webprotege.stanford.edu/RDqsfalF6LiEjb4XwHnBTpu -->
-
-    <owl:Class rdf:about="http://webprotege.stanford.edu/RDqsfalF6LiEjb4XwHnBTpu">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDPRGePbAqMP37A6yn3hIzW"/>
-        <rdfs:label xml:lang="en">Regulations and Policies</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- http://webprotege.stanford.edu/RDqxQcwhSqw15p0zaxSa3Zl -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RDqxQcwhSqw15p0zaxSa3Zl">
@@ -3222,6 +3334,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/RDqzfWHS8xjvVBwrDa4YvGG">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDS1VQGWAfbJJjIlECv0OPX"/>
         <rdfs:label xml:lang="en">Car-Pooling</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDrAixtqRuxiGny6GGkJ1iB -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDrAixtqRuxiGny6GGkJ1iB">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5"/>
+        <rdfs:label xml:lang="en">ISO 20078 Road Vehicles – Extended vehicle (ExVe) web services</rdfs:label>
     </owl:Class>
     
 
@@ -3244,6 +3365,15 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/RDwVJTwVOwUbm4zvWlG0c3c -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDwVJTwVOwUbm4zvWlG0c3c">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9"/>
+        <rdfs:label xml:lang="en">ISO 26262 Road vehicles – Functional safety</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/RDyvdqb7UnXlEcggl7vMiyw -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RDyvdqb7UnXlEcggl7vMiyw">
@@ -3258,6 +3388,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/RDz0Iu4q27YmnUWKc1Q9H5z">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDE4vOeQLoLtDLiMh2HeKAc"/>
         <rdfs:label xml:lang="en">Real-time Information and Updates</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
+        <rdfs:label xml:lang="en">Automated Driving Standards</rdfs:label>
     </owl:Class>
     
 
@@ -3319,8 +3458,8 @@
     <!-- http://webprotege.stanford.edu/RJRSPGH2uuDE4kdhjP3lj9 -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RJRSPGH2uuDE4kdhjP3lj9">
-        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">SAE J3016</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDzdam73W2viWeM6CJlB2r9"/>
+        <rdfs:label xml:lang="en">SAE J3016 Taxonomy and Definitions for Terms Related to Driving Automation Systems (SAE Levels)</rdfs:label>
     </owl:Class>
     
 
@@ -3375,6 +3514,16 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/RMAdr9LikkvileJM25J9Tw">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7xzcj3vxtArQsi3C7lymoS"/>
         <rdfs:label xml:lang="en">Vouchers</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RMIgeqNdAT7NIsUcx3bJyl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RMIgeqNdAT7NIsUcx3bJyl">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8HlCcMKoU0kweba9GIwhmk"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Broadcasts a vehicle&apos;s position, speed, heading, and other status information to nearby vehicles and infrastructure. Use Case: Enhances situational awareness for collision avoidance, cooperative lane changes, and platooning.</rdfs:comment>
+        <rdfs:label xml:lang="en">Cooperative Awareness Message (CAM) ETSI EN 302 637-2</rdfs:label>
     </owl:Class>
     
 
@@ -3438,6 +3587,16 @@
     
 
 
+    <!-- http://webprotege.stanford.edu/RQO8amTiNMP3h6IFPLAckp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RQO8amTiNMP3h6IFPLAckp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RRI2TLqdZq7vle5kfxM5YG"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lightweight messaging protocol for vehicle-to-cloud communication, especially in IoT applications.</rdfs:comment>
+        <rdfs:label xml:lang="en">MQTT Message Queuing Telemetry Transport</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://webprotege.stanford.edu/RQYcFQSrwbRD9mOZroKMFO -->
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/RQYcFQSrwbRD9mOZroKMFO">
@@ -3479,6 +3638,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/RQuZWdihyS5FwnGg20ppUb">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBMUmdTfk3oNtSTayLlz95J"/>
         <rdfs:label xml:lang="en">Service Orchestration</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RRI2TLqdZq7vle5kfxM5YG -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RRI2TLqdZq7vle5kfxM5YG">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCXisei3FCvDjub3Sc3jrkm"/>
+        <rdfs:label xml:lang="en">Data Formats and Protocols</rdfs:label>
     </owl:Class>
     
 
@@ -3900,6 +4068,15 @@
     <owl:Class rdf:about="http://webprotege.stanford.edu/RnyAqFVZv1pYx833OK7G3A">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBQKSCpb5zo0BlxlPWFqjsz"/>
         <rdfs:label xml:lang="en">Lane Keeping</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoYQCQHCduksRqpzxsugEn -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RoYQCQHCduksRqpzxsugEn">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5"/>
+        <rdfs:label xml:lang="en">IEEE 802.11p</rdfs:label>
     </owl:Class>
     
 
