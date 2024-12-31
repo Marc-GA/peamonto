@@ -1232,7 +1232,7 @@
 
     <owl:Class rdf:about="http://webprotege.stanford.edu/R8kVeKS48vyEFIuiILH0nc5">
         <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R8OZ8Lrq76Itm9HSkz8ZpnA"/>
-        <rdfs:label xml:lang="en">Vehicle Platform and Communication Standards</rdfs:label>
+        <rdfs:label xml:lang="en">Communication Standards</rdfs:label>
     </owl:Class>
     
 
